@@ -1,0 +1,4 @@
+# 1.8 removed numarray
+numpy <= 1.7
+
+Pillow

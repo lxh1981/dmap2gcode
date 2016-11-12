@@ -115,7 +115,6 @@ if PIL == True:
         from PIL import Image
         from PIL import ImageTk
         from PIL import ImageOps
-        import _imaging
     except:
         PIL = False
         # The following was deleted because it caused more problems than it solved
